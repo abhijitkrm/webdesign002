@@ -188,7 +188,7 @@
 			color:rgba(50,67,73,0.05);
 	}
 	.first-container{
-			padding-top: 120px !important;
+			padding-top: 20px !important;
 	}
 	.news-first-container{
 		padding-top: 40px !important;
@@ -255,7 +255,7 @@
 }
 @media only screen and (min-width:769px) and (max-width: 1400px) {
 	.first-container{
-		padding-top: 120px !important;
+		padding-top: 20px !important;
 	}
 	.news-first-container{
 		padding-top: 80px !important;
